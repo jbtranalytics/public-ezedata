@@ -1,0 +1,1 @@
+export const env={"PUBLIC_PROJECT_ID":"rwcpvlqvknrsmogcqlmd","PUBLIC_SUPABASE_PUBLISHABLE_KEY":"sb_publishable_x-QtJ8S2rq6kN1AIr6QQfg_qD_EdgOU","PUBLIC_SUPABASE_URL":"https://rwcpvlqvknrsmogcqlmd.supabase.co"}
